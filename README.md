@@ -1,0 +1,1 @@
+created a function that should be able to solve linear systems, has not been bug checked, is not optimised, do not push this i am fairly certain it will crash your computer if you put in a system bigger than 100x100 but it has not been tested
